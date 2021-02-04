@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+.ditto {
+  position: fixed;
+  top: 40%;
+  left: 40%;
+}
+
+.Rave {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  border-color: #8FDDE6;
+  animation: Rave-ani 10s linear infinite;
+}
+
+@keyframes Rave-ani {
+  0%  {background-color: #8FDDE6;}
+  10% {background-color: #43E704;}
+  20% {background-color: #E73104;}
+  30% {background-color: #7A04E7;}
+  40% {background-color: #EB6799;}
+  50% {background-color: #67A2EB;}
+  60% {background-color: #F0FE49;}
+  70% {background-color: #B15170;}
+  80% {background-color: #FF2525;}
+  90% {background-color: #75FF25;}
+  100%{background-color: #8FDDE6;}
+
+
+}
+
+.dittoslide1 {
+  position: absolute;
+  top: 50;
+  left: 0;
+  animation: dittoslide1-ani 5s linear infinite;
+}
+
+@keyframes dittoslide1-ani {
+  0%   {opacity: .0; left: 0;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 1000px;}
+}
+
+.dittoslide2 {
+  position: absolute;
+  top: 500px;
+  left: 1000;
+  animation: dittoslide2-ani 8s linear infinite;
+}
+
+@keyframes dittoslide2-ani {
+  0%   {opacity: .0; left: 2000px;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 0px;}
+}
+.dittoslide3 {
+  position: absolute;
+  top: 480px;
+  left: 0;
+  animation: dittoslide3-ani 3s linear infinite;
+}
+
+@keyframes dittoslide3-ani {
+  0%   {opacity: .0; left: 0;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 2000px;}
+}
+.dittoslide4 {
+  position: absolute;
+  top: 400px;
+  left: 0;
+  animation: dittoslide4-ani 15s linear infinite;
+}
+
+@keyframes dittoslide4-ani {
+  0%   {opacity: .0; left: 0;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 2000px;}
+}
+.dittoslide5 {
+  position: absolute;
+  top: 600px;
+  left: 0;
+  animation: dittoslide5-ani 11s linear infinite;
+}
+
+@keyframes dittoslide5-ani {
+  0%   {opacity: .0; left: 2000px;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 0px;}
+}
+.dittoslide6 {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  animation: dittoslide6-ani 20s linear infinite;
+}
+
+@keyframes dittoslide6-ani {
+  0%   {opacity: .0; left: 0;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 1500px;}
+}
+.dittoslide7 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  animation: dittoslide7-ani 8s linear infinite;
+}
+
+@keyframes dittoslide7-ani {
+  0%   {opacity: .0; left: 0;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 1800px;}
+}
+.dittoslide8 {
+  position: absolute;
+  top: 800px;
+  left: 0;
+  animation: dittoslide8-ani 9s linear infinite;
+}
+
+@keyframes dittoslide8-ani {
+  0%   {opacity: .0; left: 0;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 1000px;}
+}
+.dittoslide9 {
+  position: absolute;
+  top: 500px;
+  left: 0;
+  animation: dittoslide9-ani 12s linear infinite;
+}
+
+@keyframes dittoslide9-ani {
+  0%   {opacity: .0; left: 0;}
+  50%  {opacity: .5;}
+  100% {opacity: .0; left: 1000px;}
+}
