@@ -1,0 +1,92 @@
+@charset "UTF-8";
+#Gold1 {
+  animation: G1fade 6.0s;
+}
+
+@keyframes G1fade {
+  0% {opacity: .0; transform: translate(-200px, 0);}
+  50% {opacity: .5}
+  100% {opacity: .3; transform: translate(200px, 0);}
+}
+
+#Gold2 {
+  animation: G2fade 6.0s;
+}
+
+@keyframes G2fade {
+  0% {opacity: .0; transform: translate(200px, 0);}
+  50% {opacity: .5}
+  100% {opacity: .3; transform: translate(-200px, 0);}
+}
+
+#Red {
+  animation: Redfade 6.0s;
+}
+
+@keyframes Redfade {
+  0% {opacity: .0; transform: translate(0, -200px);}
+  50% {opacity: .5}
+  100% {opacity: .3; transform: translate(0, 200px);}
+}
+
+#Goldline1 {
+  animation: Gl1fade 6.0s;
+}
+
+@keyframes Gl1fade {
+  0% {opacity: .0; transform: translate(0, -200px);}
+  50% {opacity: .5}
+  100% {opacity: .3; transform: translate(0, 200px);}
+}
+
+#Goldline2 {
+  animation: Gl2fade 6.0s;
+}
+
+@keyframes Gl2fade {
+  0% {opacity: .0; transform: translate(-200px, 0);}
+  50% {opacity: .5}
+  100% {opacity: .3; transform: translate(200px, 0);}
+}
+
+#Goldline3 {
+  animation: Gl3fade 6.0s;
+}
+
+@keyframes Gl3fade {
+  0% {opacity: .0; transform: translate(0, 200px);}
+  50% {opacity: .5}
+  100% {opacity: .3; transform: translate(0, -200px);}
+}
+
+#Goldline4 {
+  animation: Gl4fade 6.0s;
+}
+
+@keyframes Gl4fade {
+  0% {opacity: .0; transform: translate(0, 200px);}
+  50% {opacity: .5}
+  100% {opacity: .3; transform: translate(0, -200px);}
+}
+
+#Own {
+  animation: Ownfade 6.0s;
+}
+
+@keyframes Ownfade {
+  0% {opacity: .5; transform: translate(-200px, 0);}
+  100% {opacity: 1.0; transform: translate(0, 0);}
+}
+
+#Video {
+  animation: Ownfade 6.0s;
+}
+
+#Coming {
+  animation: Comingfade 6.0s;
+}
+
+@keyframes Comingfade {
+  0% {opacity: .5; transform: translate(0, -200px);}
+  100% {opacity: 1.0; transform: translate(0, 0);}
+}

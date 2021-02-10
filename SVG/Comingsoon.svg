@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 502.17 501">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3192;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fceea2;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        opacity: 0.69;
+      }
+
+      .cls-3 {
+        fill: #ed1e79;
+      }
+
+      .cls-4 {
+        fill: #fcee9b;
+      }
+
+      .cls-5 {
+        font-size: 48px;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #fff;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-8 {
+        font-size: 21px;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.03em;
+      }
+    </style>
+  </defs>
+  <g id="Background">
+    <rect class="cls-1" x="0.5" y="0.5" width="500" height="500"/>
+  </g>
+  <g id="Gold1">
+    <rect class="cls-2" x="97.74" y="98.4" width="325.65" height="90.17"/>
+  </g>
+  <g id="Red">
+    <rect class="cls-3" x="369.89" y="39.61" width="81.58" height="351.74"/>
+  </g>
+  <g id="Gold2">
+    <rect class="cls-4" x="106.99" y="309.78" width="312.77" height="58.46"/>
+  </g>
+  <g id="Goldline1">
+    <rect class="cls-4" x="76.6" y="0.5" width="7.6" height="253.13"/>
+  </g>
+  <g id="Goldline2">
+    <rect class="cls-4" x="0.5" y="395.98" width="206.89" height="7.6"/>
+  </g>
+  <g id="Goldline3">
+    <rect class="cls-4" x="423.39" y="373.19" width="8.26" height="127.31"/>
+  </g>
+  <g id="Goldline4">
+    <rect class="cls-4" x="397.63" y="188.56" width="104.04" height="6.61"/>
+  </g>
+  <g id="Coming">
+    <text class="cls-5" transform="translate(96.42 156.2)"><tspan class="cls-6">C</tspan><tspan x="27.31" y="0">oming </tspan><tspan class="cls-7" x="168.57" y="0">S</tspan><tspan x="192.53" y="0">oon</tspan></text>
+  </g>
+  <g id="Own">
+    <text class="cls-8" transform="translate(108.64 327.94)"><tspan class="cls-9">T</tspan><tspan x="9.87" y="0">O OWN ON</tspan></text>
+  </g>
+  <g id="Video">
+    <text class="cls-8" transform="translate(163.46 350.4)">VIDEO &amp; DVD</text>
+  </g>
+</svg>
